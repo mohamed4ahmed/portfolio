@@ -173,7 +173,7 @@ const getPosts = () => {
         description: "React web app for my coffe.",
         imgSrc: troyCoffeImage,
         imgAlt: "troy-logo",
-        link: "https://www.troycoffe.cf",
+        link: "https://mohamed4ahmed.github.io/troy",
       },
       {
         id: nextId(),
@@ -216,7 +216,7 @@ const getPosts = () => {
           "React web app for Write down your daily tasks. Save and edit them or delete them, you can also cross them off as finished tasks and filter professional and uifinshed tasks.",
         imgSrc: todoappImage,
         imgAlt: "todoapp-logo",
-        link: "https://todoapp.ml",
+        link: "https://mohamed4ahmed.github.io/TodoNew",
       },
       {
         id: nextId(),
@@ -224,7 +224,7 @@ const getPosts = () => {
         description: "React web app for Handmade crochet",
         imgSrc: crochetArtImage,
         imgAlt: "crochetart-logo",
-        link: "https://crochetart.cf",
+        link: "https://mohamed4ahmed.github.io/crochetart",
       },
       {
         id: nextId(),
