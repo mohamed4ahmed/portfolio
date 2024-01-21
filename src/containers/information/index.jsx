@@ -107,7 +107,7 @@ const Information = () => {
             <a
               rel="noopener noreferrer"
               target="__blank"
-              href="tel:+201099383905"
+              href="tel:+966510264961"
             >
               <div className="icon">
                 <img
@@ -172,7 +172,7 @@ const Information = () => {
           </div>
 
           <div className="social">
-            <a href="whatsapp://send?text=welcome-let-your-messange&phone=+201099383905">
+            <a href="whatsapp://send?text=welcome-let-your-messange&phone=+966510264961">
               <div className="icon">
                 <img
                   src="https://img.icons8.com/clouds/100/000000/whatsapp.png"

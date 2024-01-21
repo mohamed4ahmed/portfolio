@@ -11,7 +11,7 @@ const About = ({ languages, socials, tools }) => {
 						<span role="img" aria-label="live">
 							🌏
 						</span>{" "}
-						Lives: Elmahala-Elkoubra city,Gharbia, Egypt
+						Lives: Riyad Saudi Arabia
 					</p>
 					<p>
 						<span role="img" aria-label="email">
